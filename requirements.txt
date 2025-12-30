@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+faster-whisper
+requests
+python-dotenv
+static-ffmpeg
+google-auth
+google-auth-oauthlib
+google-api-python-client
